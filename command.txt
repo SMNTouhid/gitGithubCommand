@@ -69,3 +69,28 @@ after that press
 stage korar por change dekhar jonno 
 --git diff --staged
 
+git theke permanently file delete korar jonno
+--git rm test.txt
+ei obosthay git status track kore. status thekew remove korar jonno
+--git restore --staged test.txt
+
+github e project rakhar jonno
+-github e create new repository 
+-repository theke code niye git e paste 
+
+login kora sara push korar jonno ssh key use kora. ssh key ekbar create korle ar korte hy na.
+jodi Credential Manager e Windows Credential thake git/github ta remove korte hbe.
+then follow the generate new ssh key file command from github docs.
+then github profile er icon er setting e giye ssh key ta paste korte hbe.
+
+github theke project copy kore niye asa
+-github theke project e giye tar code theke location copy kore
+-jekhane copy korte chacchi sekhane git bash korte hbe
+--git clone https://github.com/SMNTouhid/gitGithubCommand.git
+
+notun name clone korte chaile 
+--git clone https://github.com/SMNTouhid/gitGithubCommand.git notunNam
+
+
+
+
