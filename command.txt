@@ -53,3 +53,7 @@ jekhane kaj korcilam setate fire jabar jonno
 
 jodi master e kaj kori tahole master e fire jabar jonno
 --git checkout master
+
+lateset change ta dekhar jonno (file save korar por aita kaj kore)
+--git diff
+
