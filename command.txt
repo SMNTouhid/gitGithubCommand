@@ -48,4 +48,8 @@ joto commit ase sb single line dekhar jonno
 jekono commit e fire jabar jonno 
 --git checkout 1234567                (123456--log number)
 
+jekhane kaj korcilam setate fire jabar jonno 
+--git checkout 1ee234d
 
+jodi master e kaj kori tahole master e fire jabar jonno
+--git checkout master
