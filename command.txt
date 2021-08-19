@@ -1,0 +1,33 @@
+git initial korar jonno
+--git init
+
+globaly user name set korar jonno 
+--git config --global user.name "Touhid"
+
+globally user email set korar jonno 
+--git config --global user.email "nasimuzzamant@gamil.com"
+
+localy user name set korar jonno 
+--git config  user.name "Touhid"
+
+locally user email set korar jonno 
+--git config user.email "nasimuzzamant@gamil.com" 
+
+user name and email check korar jonno
+--git config --list
+
+window clear korar jonno
+--clear
+
+jabotio change dekhar jonno 
+--git status
+
+single file stage korar jonno
+--git add command.txt
+
+sb file stage korar jonno
+--git add --all
+or
+--git add .
+
+
