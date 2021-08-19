@@ -94,3 +94,4 @@ notun name clone korte chaile
 
 github e kono file change korle seta fatch diye local machine e niye jete hy.
 
+github theke kono change local file e niye jawar jonno fetch e dorkar hy kina check kora.
