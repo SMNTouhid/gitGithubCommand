@@ -45,4 +45,7 @@ joto commit kora ase sb dekhar jonno
 joto commit ase sb single line dekhar jonno
 --git log --oneline
 
+jekono commit e fire jabar jonno 
+--git checkout 1234567                (123456--log number)
+
 
