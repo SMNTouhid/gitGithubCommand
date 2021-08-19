@@ -69,7 +69,6 @@ after that press
 stage korar por change dekhar jonno 
 --git diff --staged
 
-<<<<<<< HEAD
 git theke permanently file delete korar jonno
 --git rm test.txt
 ei obosthay git status track kore. status thekew remove korar jonno
@@ -102,23 +101,29 @@ github theke kono change local file e niye jawar jonno fetch e dorkar hy kina ch
 
 git pull use korar age git fetch use korar dorkar hy.
 
-notun branch kholar jonno 
+git e branch toiri korar jonno
 --git branch branchName
 
-brach gulo dekhar jonno
+git branch gulo check korar jonno
 --git branch
 
-notun branch e switch korar jonno
+notun branch e jawar jonno 
 --git checkout branchName
 
-notun branch khola o tate switch korar jonno
---git checkout -b brachName2
+sorasori notun branch create kore setate switch korar jonno
+--git checkout -b branchName2
 
-onno kono branch e kono kaj korle seta j branch ekhon kaj choltese tate anar jonno 
---git merge branchName
+stage korar age kono kaj temporari te rekhe notun kaj korar jonno
+--git stash
 
-kono branch delete korar jonno
---git branch -d branchName
+stash kora kaj firiye anr jonno
+--git stash pop
+
+onk gulo kaj stash e rekhe dile tar list dekhar jonno
+--git stash list
+
+je kono ekta stash er kaje fire jabar jonno
+--git stash pop stash@{stashNumber}
 
 
-  
+
