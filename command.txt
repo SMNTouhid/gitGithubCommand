@@ -125,5 +125,11 @@ onk gulo kaj stash e rekhe dile tar list dekhar jonno
 je kono ekta stash er kaje fire jabar jonno
 --git stash pop stash@{stashNumber}
 
+stage korar age kono file delete korar age konta konta delete hbe seta dekhar jonno
+--git clean -f -n
+
+stage korar age kono file delete korar jonno
+--git clean -f
+
 
 
