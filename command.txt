@@ -42,5 +42,7 @@ commit er short way
 joto commit kora ase sb dekhar jonno
 --git log
 
+joto commit ase sb single line dekhar jonno
+--git log --oneline
 
 
