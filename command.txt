@@ -131,5 +131,7 @@ stage korar age kono file delete korar age konta konta delete hbe seta dekhar jo
 stage korar age kono file delete korar jonno
 --git clean -f
 
-
+kono nidristo file format repository er local file e thakbe kintu seta kokhono stage hbena tar jonno
+--touch .gitignore
+.gitignore file er moddhe *.seiFileFormatErNamJemonPNG
 
