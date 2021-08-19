@@ -69,6 +69,7 @@ after that press
 stage korar por change dekhar jonno 
 --git diff --staged
 
+<<<<<<< HEAD
 git theke permanently file delete korar jonno
 --git rm test.txt
 ei obosthay git status track kore. status thekew remove korar jonno
@@ -91,6 +92,5 @@ github theke project copy kore niye asa
 notun name clone korte chaile 
 --git clone https://github.com/SMNTouhid/gitGithubCommand.git notunNam
 
-
-
+github e kono file change korle seta fatch diye local machine e niye jete hy.
 
