@@ -60,3 +60,7 @@ lateset change ta dekhar jonno (file save korar por aita kaj kore)
 kon commit e kon change asche ta dekhar jonno 
 --git show 12sadf2
 
+j kono 2ta commit er parthokko dekhar jonno 
+--git diff sadf123 321sdfs
+
+
