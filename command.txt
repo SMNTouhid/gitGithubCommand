@@ -101,3 +101,20 @@ github e kono file change korle seta local file e niye jete
 github theke kono change local file e niye jawar jonno fetch e dorkar hy kina check kora.
 
 git pull use korar age git fetch use korar dorkar hy.
+
+notun branch kholar jonno 
+--git branch branchName
+
+brach gulo dekhar jonno
+--git branch
+
+notun branch e switch korar jonno
+--git checkout branchName
+
+notun branch khola o tate switch korar jonno
+--git checkout -b brachName2
+
+onno kono branch e kono kaj korle seta j branch ekhon kaj choltese tate anar jonno 
+--git merge branchName
+
+  
