@@ -30,4 +30,13 @@ sb file stage korar jonno
 or
 --git add .
 
+commit korar jonno
+--git commit
+i
+commit er comment 
+:x
+
+commit er short way
+
+
 
