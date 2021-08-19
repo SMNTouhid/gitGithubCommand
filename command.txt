@@ -57,3 +57,6 @@ jodi master e kaj kori tahole master e fire jabar jonno
 lateset change ta dekhar jonno (file save korar por aita kaj kore)
 --git diff
 
+kon commit e kon change asche ta dekhar jonno 
+--git show 12sadf2
+
