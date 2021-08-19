@@ -92,5 +92,11 @@ github theke project copy kore niye asa
 notun name clone korte chaile 
 --git clone https://github.com/SMNTouhid/gitGithubCommand.git notunNam
 
-github e kono file change korle seta fatch diye local machine e niye jete hy.
+github e kono file change korle seta fetch diye local machine e niye jete hy.
+amr monehy notun update e fetch er bebohar lagena sudhu git pull use korlei hy.
+
+github e kono file change korle seta local file e niye jete
+--git pull
+
+
 
