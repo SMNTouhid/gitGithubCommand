@@ -54,7 +54,7 @@ jekhane kaj korcilam setate fire jabar jonno
 jodi master e kaj kori tahole master e fire jabar jonno
 --git checkout master
 
-lateset change ta dekhar jonno (file save korar por aita kaj kore)
+lateset change ta dekhar jonno (file save korar por aita kaj kore kintu commit korar por kaj korena)
 --git diff
 
 kon commit e kon change asche ta dekhar jonno 
@@ -65,3 +65,7 @@ j kono 2ta commit er parthokko dekhar jonno
 
 after that press 
 --q
+
+stage korar por change dekhar jonno 
+--git diff staged
+
