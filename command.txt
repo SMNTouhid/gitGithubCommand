@@ -117,4 +117,8 @@ notun branch khola o tate switch korar jonno
 onno kono branch e kono kaj korle seta j branch ekhon kaj choltese tate anar jonno 
 --git merge branchName
 
+kono branch delete korar jonno
+--git branch -d branchName
+
+
   
