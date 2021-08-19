@@ -37,6 +37,6 @@ commit er comment
 :x
 
 commit er short way
-
+--git commit -m "short way"
 
 
