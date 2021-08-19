@@ -39,4 +39,8 @@ commit er comment
 commit er short way
 --git commit -m "short way"
 
+joto commit kora ase sb dekhar jonno
+--git log
+
+
 
