@@ -98,6 +98,6 @@ amr monehy notun update e fetch er bebohar lagena sudhu git pull use korlei hy.
 github e kono file change korle seta local file e niye jete
 --git pull
 
-
-
 github theke kono change local file e niye jawar jonno fetch e dorkar hy kina check kora.
+
+git pull use korar age git fetch use korar dorkar hy.
