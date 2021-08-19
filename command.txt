@@ -67,5 +67,5 @@ after that press
 --q
 
 stage korar por change dekhar jonno 
---git diff staged
+--git diff --staged
 
